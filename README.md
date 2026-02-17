@@ -57,3 +57,16 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
   -  Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social media campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
   
 [FOR MORE INFORMATION **click here**]( https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md )
+
+
+### Data Cleaning Processing (Using SQl)
+- Identified and ingested a "dirty" dataset containing over 3000 rows.
+- Transformed raw, unstructured strings and inconsistent formats into a reliable source of truth for downstream analytics.
+    - Standardizing Strings: Leveraged TRIM(), UPPER(), and INITCAP() to resolve inconsistent naming conventions and remove trailing white spaces.
+    - Handling Nulls: Utilized COALESCE() and CASE statements to replace null values with "Unknown" or relevant defaults, ensuring $100\%$ row usability for reporting.
+- Developed Common Table Expressions (CTEs) combined with ROW_NUMBER() and PARTITION BY to identify and remove duplicate records without losing data integrity.
+- Successfully eliminated 85% of duplicate entries, reducing storage overhead and preventing double-counting in sales reports.
+- Improved data reliability by 100%, verified by comparing post-clean aggregate totals against raw source audits.
+- Automated the cleaning pipeline with a reusable SQL script, reducing manual data preparation time from hours to seconds.
+
+[FOR MORE INFORMATION **click here**]( https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md )
