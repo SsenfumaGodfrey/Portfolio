@@ -34,3 +34,11 @@ enabling data-backed decision-making for the market and finance department.
 - Served as the key link between data operations and commercial teams,
  translating business questions into analytical projects and data insights
  into actionable recommendations.
+
+### Product Analyst  - Freelance Project (Remote)  2022.
+- Conducted quantitative analysis of user engagement data to evaluate feature adoption
+and performance, providing insights that influenced the product roadmap for the client projects.
+-  Established key product metrics like user retention and built dashboards to monitor
+product health, enabling data-driven prioritization.
+- Conducted exploratory data analysis (EDA) to identify fraudulent transaction patterns using
+My SQL which helped shareholders to detect fraud transactions by 65%.
