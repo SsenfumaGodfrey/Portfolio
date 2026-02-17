@@ -21,6 +21,8 @@
      *Strong Point Educational And Training Institute - January 2023-March 2023*
 - Certificate in Nursing Assistant CNA.
      *American Medical Certification Association -2023*
+- Certificate in Graphics Design.
+    *AFFCAD Vocational Institute-2019*
 
 ## Experience.
 
@@ -43,3 +45,5 @@ and performance, providing insights that influenced the product roadmap for the 
 product health, enabling data-driven prioritization.
 - Conducted exploratory data analysis (EDA) to identify fraudulent transaction patterns using
 My SQL which helped shareholders to detect fraud transactions by 65%.
+
+## Projects.
