@@ -53,4 +53,4 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 
   -  Optimizing bundle and enhancing loyalty program to increase customer lifetime value. Targeted growth in Germary and Canada along with improvement to digital channels like mobile Apps and running social media campaigns ads, will strengthen Fing Fong market position and drive sustainable growth.
   
-[FOR MORE INFORMATION click here](https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md)
+[ ## FOR MORE INFORMATION click here](https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md)
