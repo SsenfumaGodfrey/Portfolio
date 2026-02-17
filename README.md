@@ -48,6 +48,7 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 
 ## Projects.
 ### Business Performance Analysis
+![267080a05c7568b4974fb6cf50960c12-01.jpg]
 - Fing Fong's sales analysis from **December 2024 to June 2025**, **$513.98k as total revenue and 100.04k cellphones or mobile phones** being shipped over that period.
   U.S.A is the top best performancing country contributing 53.34% on the total revenue earned between december 2024 and june 2025, Followed by United Kingdom in the second position with $106.01k on the total revenue. Germany and Canada being the worst performancing countries with the average order value of $66.91k.
 
