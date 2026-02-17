@@ -23,7 +23,7 @@
 
 ## Experience.
 
-### DataAnalyst- Business Development-Soccanett kampala  *2023 - Present.*
+### DataAnalyst- Business Development-Soccanett kampala  *2023 - Present*
 - Developed and maintained dashboards using tools like Power BI, Tableau, Excel and SQL 
 to track sales performance, customer’s behavior plus market trends hence
 enabling data-backed decision-making for the market and finance department. 
