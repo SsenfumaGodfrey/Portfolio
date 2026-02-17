@@ -7,6 +7,7 @@
        *Victoria University, Kampala 2020-2023*
 - Diploma in MY SQL and Statistics for Data Analysis.
        *Alison online - 2021.*
+  
 ### Certifications.
 - Certificate in Credit Analyst Job Simulation.
       *Forage-2026*
