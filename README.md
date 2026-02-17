@@ -59,6 +59,11 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 [FOR MORE INFORMATION **click here**]( https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md )
 
 
+
+
+
+
+
 ### Data Cleaning Processing (Using SQl)
 - Identified and ingested a "dirty" dataset containing over 3000 rows.
 - Transformed raw, unstructured strings and inconsistent formats into a reliable source of truth for downstream analytics.
