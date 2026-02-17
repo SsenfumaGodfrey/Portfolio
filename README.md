@@ -3,9 +3,10 @@
 -  #### Techical skills: SQL, Excel, Python and Visualization Tool(Power BI and Tableau).
 - #### Soft skills;    Communicative, Critical thinker, Business Intelligence, Team work, Problem - Solving skills, Stakeholder translation and Adaptability plus Learning Agility.
 ## Education.
-Bachelor of Science in Business Computing and Data Analytics.
-*Victoria University, Kampala 2020-2023.*
-Diploma in MY SQL and Statistics for Data Analysis. 
+- Bachelor of Science in Business Computing and Data Analytics.
+*Victoria University, Kampala 2020-2023*
+- Diploma in MY SQL and Statistics for Data Analysis.
+  *Alison online -2021.*
 ### Certifications.
 - Certificate in Credit Analyst Job Simulation.
 *Forage-2026*
