@@ -69,4 +69,4 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 - Improved data reliability by 100%, verified by comparing post-clean aggregate totals against raw source audits.
 - Automated the cleaning pipeline with a reusable SQL script, reducing manual data preparation time from hours to seconds.
 
-[FOR MORE INFORMATION **click here**]( https://github.com/SsenfumaGodfrey/My-Portfolio-As-Data-Analyst/blob/main/README.md )
+[FOR MORE INFORMATION **click here**](https://github.com/SsenfumaGodfrey/Data-Cleaning-Process) )
