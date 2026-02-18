@@ -99,4 +99,4 @@ Here’s why 80% of Data Science is just... cleaning.**
 - Automated the cleaning pipeline with a reusable SQL script, reducing manual data preparation time from hours to seconds.
 
 
-<a href = ""> Download MY CV **click here.** (pdf file) </a>
+<a href = "SSENFUMA GODFREY... CV.pdf"> Download MY CV **click here.** (pdf file) </a>
