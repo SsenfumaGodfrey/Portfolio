@@ -105,5 +105,5 @@ Here’s why 80% of Data Science is just... cleaning.**
 
 - **Email: godfrey.ssenfuma97@gmail.com**
 - **Contact**  
-          **+256 701 405 492**
-            **+256 777 642 922** 
+          +256 701 405 492
+            . . .+256 777 642 922
