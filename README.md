@@ -103,7 +103,7 @@ Here’s why 80% of Data Science is just... cleaning.**
 
 - [LinkedIn](https://www.linkedin.com/in/ssenfuma-godfrey-b51a3137b/)
 
-  **Email: godfrey.ssenfuma97@gmail.com**
-   **Contact**
+**Email: godfrey.ssenfuma97@gmail.com**
+- **Contact**
    *+256 701 405 492*
    *+256 777 642 922* 
