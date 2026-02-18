@@ -70,10 +70,10 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 
 
 
-## Data Cleaning & Preprocessing (Using SQl)
+## Data Cleaning & Preprocessing (Using SQL)
 
-![IMAGE](performance-01.png)
-<img src="/performance-01.png" alt="Business Performance Analysis project Using Power BI and Excel by SSENFUMA GODFREY">
+![IMAGE](data-01.png)
+<img src="/data-01.png" alt=" Data Cleaning and Preprocessing project Using SQL by SSENFUMA GODFREY">
 
 **🧹 Dirty Data = Wrong Decisions.
 Here’s why 80% of Data Science is just... cleaning.**
