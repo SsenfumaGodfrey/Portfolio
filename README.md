@@ -54,7 +54,7 @@ product health, enabling data-driven prioritization.
 My SQL which helped shareholders to detect fraud transactions by 65%.
 
 # My Projects.
-### Business Performance Analysis
+## Business Performance Analysis
 
 ![IMAGE](performance-01.png)
 <img src="/performance-01.png" alt="Business Performance Analysis project Using Power BI and Excel by SSENFUMA GODFREY">
@@ -70,7 +70,7 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 
 
 
-### Data Cleaning & Preprocessing (Using SQl)
+## Data Cleaning & Preprocessing (Using SQl)
 **🧹 Dirty Data = Wrong Decisions.
 Here’s why 80% of Data Science is just... cleaning.**
 **Before the dashboards, before the models. . . . your data has to make sense.** 
