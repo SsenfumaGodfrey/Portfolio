@@ -56,7 +56,7 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 ## Projects.
 ### Business Performance Analysis
 
-
+![IMAGE](performance-01.png)
 <img src="/performance-01.png" alt="Business Performance Analysis project Using Power BI and Excel by SSENFUMA GODFREY">
 
 - Fing Fong's sales analysis from **December 2024 to June 2025**, **$513.98k as total revenue and 100.04k cellphones or mobile phones** being shipped over that period.
