@@ -1,7 +1,7 @@
 # DATA ANALYST
 
 ## About Me
-** Detail-oriented Data Analyst with expertise in transforming raw data into business actionable insights.
+**Detail-oriented Data Analyst with expertise in transforming raw data into business actionable insights.
 Skilled in SQL, Python, Excel and Visualization tools (Power BI and Tableau). 
 Experienced in data cleaning, analyzing and interpreting datasets to support business decision-making. 
 Strong knowledge of  statistical modeling.  I bridge the gap between technical analysis and commercial strategy.**
@@ -56,8 +56,8 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 ## Projects.
 ### Business Performance Analysis
 
-![image](performance-01.png)
-<img src="/performance-01.png" alt="Business Performance Analysis project Using Pober BI and Excel">
+
+<img src="/performance-01.png" alt="Business Performance Analysis project Using Power BI and Excel by SSENFUMA GODFREY">
 
 - Fing Fong's sales analysis from **December 2024 to June 2025**, **$513.98k as total revenue and 100.04k cellphones or mobile phones** being shipped over that period.
   U.S.A is the top best performancing country contributing 53.34% on the total revenue earned between december 2024 and june 2025, Followed by United Kingdom in the second position with $106.01k on the total revenue. Germany and Canada being the worst performancing countries with the average order value of $66.91k.
