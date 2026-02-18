@@ -71,6 +71,10 @@ My SQL which helped shareholders to detect fraud transactions by 65%.
 
 
 ### Data Cleaning Processing (Using SQl)
+**🧹 Dirty Data = Wrong Decisions
+Here’s why 80% of Data Science is just... cleaning.**
+
+Before the dashboards, before the models — your data has to make sense. Yet many skip the most crucial step: Data Cleaning & Preprocessing.
 - Identified and ingested a "dirty" dataset containing over 3000 rows.
 - Transformed raw, unstructured strings and inconsistent formats into a reliable source of truth for downstream analytics.
     - Standardizing Strings: Leveraged TRIM(), UPPER(), and INITCAP() to resolve inconsistent naming conventions and remove trailing white spaces.
