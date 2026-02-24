@@ -1,14 +1,17 @@
 # DATA ANALYST
 
 ## About Me
-**Detail-oriented Data Analyst with expertise in transforming raw data into business actionable insights.
-Skilled in SQL, Python, Excel and Visualization tools (Power BI and Tableau). 
-Experienced in data cleaning, analyzing and interpreting datasets to support business decision-making. 
-Strong knowledge of  statistical modeling.  I bridge the gap between technical analysis and commercial strategy.**
+**Detail-oriented Data Analyst with expertise in transforming large raw datasets into actionable insights 
+to protect revenue and data drive strategic decision-making. 
+Skilled in SQL, Python, Excel and visualization tools (Power BI, Tableau) with hands-on experience.
+Experienced in cleaning, analyzing and interpreting datasets to support business strategic recommendati. I bridge the gap between technical analysis and commercial strategy.**
 
 ## Skills
--  #### Technical skills: SQL, Excel, Python and Visualization Tool(Power BI and Tableau).
-- #### Soft skills:    Communicative, Critical thinker, Business Intelligence, Team work, Problem - Solving skills, Stakeholder translation and Adaptability plus Learning Agility.
+-  #### Techincal Skills:  Credit Risk Modeling,   Analytics Techniques, PAR Calculations, Financial Forecasting,CRM ,Financial modeling, Budget management Techniques, Reporting/Presenting, Visualizing data .
+- #### Interpersonal Skills: Verbal Communication,  Relationship-Building, Leadership Skills, Approachability, TeamworkProblem-Solving, Adpotibilty.
+- #### Technical Tools: SQL(PostgreSQL, MySQL), Power BI (DAX), Tableau, Microsoft Excel(Power Query, Macro,Pivot Table), Python.
+
+
 ## Education.
 - Bachelor of Science in Business Computing and Data Analytics.
        *Victoria University, Kampala 2020-2023*
