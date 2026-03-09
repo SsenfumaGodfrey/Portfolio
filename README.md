@@ -36,7 +36,7 @@ Experienced in cleaning, analyzing and interpreting datasets to support business
 
 ## Experience.
 
-### DataAnalyst- Business Development-Soccanett kampala  *2023 - Present*
+### DataAnalyst- Business Development-Soccanett kampala  
 - Developed and maintained dashboards using tools like Power BI, Tableau, Excel and SQL 
 to track sales performance, customer’s behavior plus market trends hence
 enabling data-backed decision-making for the market and finance department. 
@@ -48,7 +48,7 @@ enabling data-backed decision-making for the market and finance department.
  translating business questions into analytical projects and data insights
  into actionable recommendations.
 
-### Product Analyst  - Freelance Project (Remote)  2022.
+### Product Analyst  - Freelance Project (Remote)  .
 - Conducted quantitative analysis of user engagement data to evaluate feature adoption
 and performance, providing insights that influenced the product roadmap for the client projects.
 -  Established key product metrics like user retention and built dashboards to monitor
