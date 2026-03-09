@@ -14,7 +14,7 @@ Experienced in cleaning, analyzing and interpreting datasets to support business
 
 ## Education.
 - Bachelor of Science in Business Computing and Data Analytics.
-       *Victoria University, Kampala 2020-2023*
+       *Victoria University, Kampala
 - Diploma in MY SQL and Statistics for Data Analysis.
        *Alison online - 2021.*
   
