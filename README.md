@@ -14,13 +14,15 @@ Experienced in cleaning, analyzing and interpreting datasets to support business
 
 ## Education.
 - Bachelor of Science in Business Computing and Data Analytics.
-       *Victoria University, Kampala
+       *Victoria University, Kampala*
 - Diploma in MY SQL and Statistics for Data Analysis.
        *Alison online - 2021.*
   
 ### Certifications.
 - Certificate in Credit Analyst Job Simulation.
       *Forage-2026*
+- Certificate in Data Science & Analystics.
+      *HP LIFE online Course-2024*
 - Certificate in Introduction to Cybersecurity Awareness.
       *HP LIFE online Course-2024*
 - Certificate in Effective Leadership.
