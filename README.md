@@ -1,7 +1,7 @@
 # DATA ANALYST
 
 ## About Me
-### Detail-oriented Data Analyst with expertise in transforming large raw datasets into actionable insights to protect revenue and data drive strategic decision-making. ### Skilled in SQL, Python, Excel and visualization tools (Power BI, Tableau) with hands-on experience. ### Experienced in cleaning, analyzing and interpreting datasets to support business strategic recommendations. I bridge the gap between technical analysis and commercial strategy.
+#### Detail-oriented Data Analyst with expertise in transforming large raw datasets into actionable insights to protect revenue and data drive strategic decision-making. ### Skilled in SQL, Python, Excel and visualization tools (Power BI, Tableau) with hands-on experience. Experienced in cleaning, analyzing and interpreting datasets to support business strategic recommendations. I bridge the gap between technical analysis and commercial strategy.
 
 ## Skills
 -  #### *Techincal Skills:*  Credit Risk Modeling,   Analytics Techniques, PAR Calculations, Financial Forecasting,CRM ,Financial modeling, Budget management Techniques, Reporting/Presenting, Visualizing data .
